@@ -3,12 +3,35 @@
     font-size: 18px;
 }
 body {
-    background-color: rgb(98, 98, 236);
+    background-color:rgba(0, 0, 0, 0.672);
 }
 main {
-    width: 500px;
+    background-color:pink ;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459);
 
+}
+h1 {
+    font-size: 1,9cm;
+    color: rgb(102, 0, 0);
+    text-align: center;
+
+}
+h2 {
+    font-size: 1,5cm;
+    color: black;
+
+}
+img.lado1 {
+    width: 200px;
+    text-align: center;
+}
+img.lado {
+    width: 100px;
+    text-align: center;
+}
+img.lado2 {
+    width: 30px;
 }
