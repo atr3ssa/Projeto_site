@@ -4,6 +4,8 @@
 }
 body {
     background-color: rgb(98, 98, 236);
+}
+main {
     width: 500px;
     margin: auto;
     padding: 10px;
